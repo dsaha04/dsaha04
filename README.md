@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dwip's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaha04&count_private=true)
+![Dwip's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaha04&count_private=true&show_icons=true&theme=radical)
+)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaha04&layout=compact)](https://github.com/dsaha04/github-readme-stats)
 
