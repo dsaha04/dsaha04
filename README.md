@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Dwip's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaha04)](https://github.com/dsaha04/github-readme-stats)
+
+![Dwip's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaha04&count_private=true)
+
