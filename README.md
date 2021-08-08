@@ -13,16 +13,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Probability Theory and Machine Learning topics
 - 📫 How to reach me: [email](mailto:dsaha@princeton.edu)
 
-Check out my personal website: dsaha04.github.io
+Check out my personal website: [dsaha04.github.io](https://dsaha04.github.io/)
 
 Have a project? Let me know and we can collaborate!
-
-
-
-![Dwip's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaha04&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff)
-
-
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaha04&layout=compact&count_private=true&theme=tokyonight&hide=css&border_color=#fff)](https://github.com/dsaha04/github-readme-stats)
 
 
 
