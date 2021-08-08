@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔊 I'm currently developing [Shufflr](https://www.shufflr.org), which is a randomized chat app for students at Princeton and Carnegie Mellon alongside a few peers!
 - 🏓 I’m currently making a Computer Vision based Automated Ping Pong Referee
-- 💼 I work as a Software Engineering Intern at FanClub. I'm also a Software Engineer for [The Daily Princetonian](https://dailyprincetonian.com)
+- 💼 I work as a Software Engineering Intern at [FanClub](https://www.fanclubapp.us/). I'm also a Software Engineer for [The Daily Princetonian](https://dailyprincetonian.com)
 - 🧪 I am a Research Assistant to Professor Michal Kolesár at Princeton's Economics Department
 - 🌱 I’m currently learning Probability Theory and Machine Learning topics
 - 📫 How to reach me: [email](mailto:dsaha@princeton.edu)
