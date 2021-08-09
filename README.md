@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 
 -->
 - 🔊  &nbsp; I'm currently developing [Shufflr](https://www.shufflr.org), which is a randomized chat app for students at Princeton and Carnegie Mellon alongside a few peers!
-- 🏓  I’m currently making a Computer Vision based Automated Ping Pong Referee
-- 💼  I work as a Software Engineering Intern at [FanClub](https://www.fanclubapp.us/). I'm also a Software Engineer for [The Daily Princetonian](https://dailyprincetonian.com)
-- 🧪  I am a Research Assistant to Professor Michal Kolesár at Princeton's Economics Department
-- 🌱  I’m currently learning Probability Theory and Machine Learning topics
-- 📫  How to reach me: [email](mailto:dsaha@princeton.edu)
+- 🏓   &nbsp; I’m currently making a Computer Vision based Automated Ping Pong Referee
+- 💼   &nbsp; I work as a Software Engineering Intern at [FanClub](https://www.fanclubapp.us/). I'm also a Software Engineer for [The Daily Princetonian](https://dailyprincetonian.com)
+- 🧪   &nbsp; I am a Research Assistant to Professor Michal Kolesár at Princeton's Economics Department
+- 🌱   &nbsp; I’m currently learning Probability Theory and Machine Learning topics
+- 📫   &nbsp; How to reach me: [email](mailto:dsaha@princeton.edu)
 
 Check out my personal website: [dsaha04.github.io](https://dsaha04.github.io/)
 
