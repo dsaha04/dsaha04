@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 -->
-- 🔊  &nbsp; I just finished a research intership at [Snap: User Modelling and Personalization](https://research.snap.com/team/user-modeling-and-personalization.html).
-- 💼   &nbsp; My research interests lie within generative AI and reinforcement learning.
+- 🔊  &nbsp; I have done several deep learning research internships, including Hudson River Trading (HAIL), Headlands Technologies, and Snap Research.
+- 💼   &nbsp; My current research interests lie within reinforcement learning for policy optimization and tabular foundation models! In the past I have done theoretical work on high-dimensional statistics and theoretical computer science :)
 - 📫   &nbsp; How to reach me: [email](mailto:ds4386@columbia.edu)
 
 Check out my personal website: [dsaha04.github.io](https://dsaha04.github.io/)
